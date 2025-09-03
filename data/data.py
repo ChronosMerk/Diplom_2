@@ -6,8 +6,3 @@ class AuthorizationUser:
         "email": "ahuesf@gmail.com",
         "password": "AHUESF"
     }
-
-class CreateOrderData:
-    JSON_ORDER = {
-
-    }

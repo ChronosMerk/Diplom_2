@@ -1,6 +1,6 @@
 import allure
 import pytest
-from data.data import URLS, AuthorizationUser
+from data.data import AuthorizationUser
 from data.data_message import LoginUserMessage
 
 

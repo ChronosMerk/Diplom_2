@@ -1,9 +1,7 @@
 import allure
 import pytest
 import helpers
-from data.data import URLS
 from data.data_message import RegistrationUserMessage
-from api_methods.user_methods import UserMethods
 
 @allure.title('Тестирование регистрации уникального пользователя')
 class TestRegistration:
